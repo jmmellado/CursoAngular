@@ -1,2 +1,2 @@
 # CursoAngular
-Curos de Angular Indra Nov 2022
+Curso de Angular Indra Nov 2022
